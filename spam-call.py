@@ -5,14 +5,14 @@ os.system('clear')
 logo = """
          Spam Telepon / Call
 
-  Author   : Andrian
-  Github   : https://github.com/Bilal-Andrian/
-  Blog     : https://foruminformasi.com
+  Author   : Elangoverdosis
+  Github   : https://github.com/elangoverdosis88
+
 
  Spam Call / Telepon Di Awali Dengan 
           Contoh Penggunaan:
 
-  = 81234567891
+  : 81234567891
 «~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~»\n"""
 
 os.system('clear')
